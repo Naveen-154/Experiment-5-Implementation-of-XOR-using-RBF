@@ -31,11 +31,13 @@ The RBF of hidden neuron as gaussian function
 
 
 ## ALGORIHM:
+
+## PROGRAM:
+
 ```
 Developed By: NAVEEN S.
 Register No: 212221040114.
 ```
-## PROGRAM:
 
 ```
 
